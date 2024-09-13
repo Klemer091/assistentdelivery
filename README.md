@@ -1,4 +1,4 @@
-# Estudo sobre AWS Step Functions
+# Estudo sobre AWS Step Functions(Trabalho_de_Curso)
 ## Introdução
 
 Este estudo aborda a criação de um fluxo de trabalho utilizando AWS Step Functions e Bedrock para desenvolver um Assistente de Delivery. O AWS Step Functions permite orquestrar diferentes serviços AWS em uma arquitetura de microserviços, enquanto o Bedrock facilita o uso de modelos de aprendizado de máquina (ML) e inteligência artificial (IA) pré-treinados na nuvem.
